@@ -1,0 +1,12 @@
+Ionescu;Costel;Chirurg;True
+Popescu;Cantea;Ortoped;False
+Gheorghe;Carmen;Chirurg;False
+Vranceanu;Alex;Ortoped;True
+Cazacu;Marin;Chirurg;True
+Ciutacu;Vasile;Radiolog;False
+Gore;Bunea;Radiolog;False
+Catali;Amza;Radiolog;True
+Castanei;George;Chirurg;False
+Ponta;Dumitru;Ortoped;False
+Zapata;Adi;Radiolog;True
+

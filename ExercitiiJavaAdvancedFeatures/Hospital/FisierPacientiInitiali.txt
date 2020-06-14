@@ -1,0 +1,12 @@
+Olaroiu;Vlad;29;Chirurgie
+Cazan;Vali;29;Chirurgie
+Cumpana;Adrian;29;Chirurgie
+Ilie;Cristian;29;Chirurgie
+Jantea;Daniel;29;Ortopedie
+Spartan;Bogdan;29;Ortopedie
+Corbu;Stanel;29;Ortopedie
+Orban;Iulian;29;Ortopedie
+Pintea;Tudorel;29;Radiologie
+Robu;Cornel;29;Radiologie
+Raducu;Constantin;29;Radiologie
+Carus;Fanel;29;Radiologie
